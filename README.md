@@ -11,3 +11,16 @@
 ![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/bc155d79-c30d-4a1f-adfb-73cead608be7)<br>
 </LI>
 </uL>
+
+# Data Overview 
+<uL><li>Some of the
+	sample images 
+	from the dataset. </li>
+
+<li>Data is well 
+	masked.
+</li>
+</uL>
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/98769b9d-0644-4090-b4fe-54724aaa9ec3)
+
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466)
