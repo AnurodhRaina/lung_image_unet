@@ -21,7 +21,7 @@
 </LI>
 </UL>
 <br>
-<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466" height= "800" width="600" />
+<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466" height= "650" width="450" />
 
 
 # DATA PROCESSING
@@ -31,7 +31,7 @@
 	<LI>Convert and store to array</LI>
 	<LI>Augment and create more</LI>
 </UL>
-<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/defa7f37-b917-43fe-9e7c-7b71adfebb5a" height= "800" width="600" />
+<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/defa7f37-b917-43fe-9e7c-7b71adfebb5a" height= "650" width="450" />
 
 <hr>
 Before augmentations 500 valid images and masks were present 
@@ -43,13 +43,13 @@ Albumentations library was used for augmentations.
 # U-NET ARCHITECTURE
 * Classic U-net with custom layers and filters.
 * Less layers for less complex dataset
-<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/69093154-e1aa-4cdb-8684-ed9275e1fccb" height= "800" width="1400" />
+<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/69093154-e1aa-4cdb-8684-ed9275e1fccb" height= "600" width="1200" />
 
 
 
 
 # RESULT & OUTPUTS
-<img src= "https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/894831f7-6b30-47f0-be9d-2dc063851d50" width = "800" height = "600"/>
+<img src= "https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/894831f7-6b30-47f0-be9d-2dc063851d50" height= "650" width="450" />
 
 ## Example Outputs:
 ![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/51cd06d9-5189-4987-a44d-7cdf62440887)
