@@ -21,6 +21,5 @@
 	masked.
 </li>
 </uL>
-![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/98769b9d-0644-4090-b4fe-54724aaa9ec3)
-
+<br>
 ![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466)
