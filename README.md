@@ -35,9 +35,9 @@
 
 <hr>
 <UL>
-	<LI>Before augmentations 500 valid images and masks were present</LI>
-	<LI>Augmentations helped double the size to a 1000 images and mask.</LI>
-	<LI>Albumentations library was used for augmentations.</LI>
+Before augmentations 500 valid images and masks were present 
+Augmentations helped double the size to a 1000 images and mask. 
+Albumentations library was used for augmentations.
 
 </UL>
 
