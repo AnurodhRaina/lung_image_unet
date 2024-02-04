@@ -29,7 +29,6 @@
 	<LI>Convert and store to array</LI>
 	<LI>Augment and create more</LI>
 </UL>
-<!-- Processing mask image>
 
 ![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/defa7f37-b917-43fe-9e7c-7b71adfebb5a)
 
