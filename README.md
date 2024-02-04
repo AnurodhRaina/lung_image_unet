@@ -19,9 +19,8 @@
 </LI>
 </UL>
 <br>
-<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466" height= "300" width="200" />
+<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466" height= "1000" width="800" />
 
-![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/8a0337ab-b280-4649-baf2-f514adba7466)
 
 # Data Processing
 <UL>
