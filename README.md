@@ -46,7 +46,15 @@ Albumentations library was used for augmentations.
 <img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/69093154-e1aa-4cdb-8684-ed9275e1fccb" height= "800" width="1400" />
 
 
+
+
 # RESULT & OUTPUTS
+<img src= "https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/894831f7-6b30-47f0-be9d-2dc063851d50" width = "800" height = "600"/>
+
+## Example Outputs:
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/51cd06d9-5189-4987-a44d-7cdf62440887)
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/7a340509-fdd4-4430-a95c-6400f10c9488)
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/a4f3a5a5-4f0c-4e3c-9311-5e28782e55b6)
 
 
 
