@@ -29,7 +29,13 @@
 	<LI>Convert and store to array</LI>
 	<LI>Augment and create more</LI>
 </UL>
+<hr>
+<UL>
+	<LI>Before augmentations 500 valid images and masks were present</LI>
+	<LI>Augmentations helped double the size to a 1000 images and mask.</LI>
+	<LI>Albumentations library was used for augmentations.</LI>
 
-![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/3e3c32c6-2f45-4452-9746-d0b8efb0c7b4)
+</UL>
+
 
 
