@@ -7,10 +7,10 @@ Lung image segmentations using the U-NET model
 
 <LI>It was easily downloaded through the API and the size was around 10GB.</LI>
 
-<LI>Image parameters:
-&nbsp &nbsp -­‐ Format: PNG
-&nbsp &nbsp-­‐ Image size is 4020 x 4892, or 4892 x 4020.
-&nbsp &nbsp-­‐ The pixel spacing in vertical and horizontal directions is 0.0875 mm.
-![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/bc155d79-c30d-4a1f-adfb-73cead608be7)
+<LI>Image parameters:<br>
+&nbsp &nbsp -­‐ Format: PNG<br>
+&nbsp &nbsp-­‐ Image size is 4020 x 4892, or 4892 x 4020.<br>
+&nbsp &nbsp-­‐ The pixel spacing in vertical and horizontal directions is 0.0875 mm.<br>
+![image](https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/bc155d79-c30d-4a1f-adfb-73cead608be7)<br>
 </LI>
 </uL>
