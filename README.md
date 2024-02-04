@@ -1,5 +1,5 @@
 # Lung image segmentations using the U-NET model
-#### Objkective : Realizing how adjustment to filters and layers affect the spatial information in model training and output.
+## Objective : Realizing how adjustment to filters and layers affect the spatial information in model training and output.
 
 <UL>
  	<LI>The dataset was sourced from kaggle repository and is available at : 
