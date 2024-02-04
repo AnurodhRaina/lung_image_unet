@@ -1,4 +1,6 @@
 # Lung image segmentations using the U-NET model
+#### Objkective : Realizing how adjustment to filters and layers affect the spatial information in model training and output.
+
 <UL>
  	<LI>The dataset was sourced from kaggle repository and is available at : 
  https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels/data </LI>
@@ -43,6 +45,11 @@
 # U-NET Architecture
 * Classic U-net with custom layers and filters.
 * Less layers for less complex dataset
-<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/69093154-e1aa-4cdb-8684-ed9275e1fccb" height= "800" width="600" />
+<img src="https://github.com/AnurodhRaina/lung_image_unet/assets/51761306/69093154-e1aa-4cdb-8684-ed9275e1fccb" height= "800" width="1400" />
+
+
+# Result and output 
+
+
 
 
