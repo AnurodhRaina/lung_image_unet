@@ -1,9 +1,4 @@
-# lung_image_unet
-<h1>
- Lung image segmentations using the U-NET model
-</h1>
-
-
+# Lung image segmentations using the U-NET model
 <uL>
  <LI>The dataset was sourced from kaggle repository and is available at : https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels/data</LI>
 
